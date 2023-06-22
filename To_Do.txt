@@ -1,0 +1,7 @@
+1) Theory + NLP concepts (stemming, tokenization, bag of words)
+2) Create training data
+3) Pytorch model and training
+4) Save/load model and implement the chat
+5) Create front-end
+6) Create Flask app
+7) Create actions with Javascript
